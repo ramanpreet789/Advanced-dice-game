@@ -1,0 +1,14 @@
+E:\Indraj Assignment\Github 2 C#\New folder\obj\Debug\net8.0\New folder.GeneratedMSBuildEditorConfig.editorconfig
+E:\Indraj Assignment\Github 2 C#\New folder\obj\Debug\net8.0\New folder.AssemblyInfoInputs.cache
+E:\Indraj Assignment\Github 2 C#\New folder\obj\Debug\net8.0\New folder.AssemblyInfo.cs
+E:\Indraj Assignment\Github 2 C#\New folder\obj\Debug\net8.0\New folder.csproj.CoreCompileInputs.cache
+E:\Indraj Assignment\Github 2 C#\New folder\bin\Debug\net8.0\New folder.exe
+E:\Indraj Assignment\Github 2 C#\New folder\bin\Debug\net8.0\New folder.deps.json
+E:\Indraj Assignment\Github 2 C#\New folder\bin\Debug\net8.0\New folder.runtimeconfig.json
+E:\Indraj Assignment\Github 2 C#\New folder\bin\Debug\net8.0\New folder.dll
+E:\Indraj Assignment\Github 2 C#\New folder\bin\Debug\net8.0\New folder.pdb
+E:\Indraj Assignment\Github 2 C#\New folder\obj\Debug\net8.0\New folder.dll
+E:\Indraj Assignment\Github 2 C#\New folder\obj\Debug\net8.0\refint\New folder.dll
+E:\Indraj Assignment\Github 2 C#\New folder\obj\Debug\net8.0\New folder.pdb
+E:\Indraj Assignment\Github 2 C#\New folder\obj\Debug\net8.0\New folder.genruntimeconfig.cache
+E:\Indraj Assignment\Github 2 C#\New folder\obj\Debug\net8.0\ref\New folder.dll
